@@ -3,7 +3,7 @@ Utilidades Para SQLServer
 
 ScriptForEachDb.sql
 
-Para evitar Evitar correr el mismo script an varias base de datos de mi servidor , puedeo filtrar las base de datos que me interesan com olas que no usnado el comando 
+Para evitar Evitar correr el mismo script en varias bases de datos de un mismo servidor , puedo filtrar las base de datos que me interesan como las que no usando el store procedure 
 sp_msForEachDb
 
 
